@@ -1,3 +1,3 @@
 # CatalystTest
 
-Running this file from the command promot will show the desired output.
+Running this file from the command prompt will show the desired output string.
