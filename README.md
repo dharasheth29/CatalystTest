@@ -1,3 +1,4 @@
 # CatalystTest
 
-Running this file from the command prompt will show the desired output string.
+1. Open the command prompt where the current folder is the folder where this script resides.
+2. Run - php LogicTest.php
